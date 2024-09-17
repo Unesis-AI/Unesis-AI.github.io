@@ -6,7 +6,7 @@
 
 ---
 
-Unesis AI is on a mission to revolutionize healthcare for refugee and displaced communities by leveraging cutting-edge AI technologies. Our solution focuses on two key areas:
+Our solution focuses on two key areas:
 
 ### 1. Audio Translation During Medical Check-ups  
 
