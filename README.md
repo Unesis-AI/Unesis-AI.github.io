@@ -29,7 +29,7 @@ Unesis AI is actively seeking partnerships with stakeholders in the healthcare e
 
 ---
 
-
+## <img src="/meta logo.webp" alt="Meta Logo" width="10%" height="10%" /> <img src="/AluLogoForAdmissions.png" alt="ALU Logo" width="10%" height="10%" /> 
 ### Backed by Meta and African Leadership University  
 Unesis AI is backed by industry leaders **Meta** and **African Leadership University**, giving us access to world-class resources and support to drive our vision forward. Our team of five individuals is dedicated to making healthcare more accessible through innovative AI solutions.
 
@@ -93,11 +93,11 @@ In this short demo, you'll see our audio translation system in action and learn 
 ---
 
 ## Contact Us  
-![Contact Icon](path/to/contact_icon.png)  
+<img src="/Contact icon.png" alt="Contact Icon" width="10%" height="10%" />  
 We welcome inquiries from potential partners, investors, and collaborators who share our vision of transforming healthcare for underserved populations.
 
 - **Email:** gatwazarobert177@gmail.com
-- **Phone:** +250-788-494-219
+- **Phone:** +250 788 494 219/+250 798 687 654
 - **Website:** UnesisAI.com
 
 ---
