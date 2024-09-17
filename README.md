@@ -49,9 +49,9 @@ Christine Akoto-Nimoh is a medical doctor with over a decade of experience in pu
 
 ---
 
-### ![Kwame Adu Image](path/to/member3_image.png)  
+### ![Chol image](/Chol.JPG)  
 **Chol Daniel Deng Dau - Co-founder**  
-Kwame is an AI expert with a deep understanding of machine learning algorithms. He leads the development of our medical imaging and translation technologies.
+I am dedicated software engineer with a keen interest in machine learning and artificial intelligence. With a passion for leveraging innovative technologies to solve complex problems, I am committed to continuous learning and development in AI, constantly exploring new ways to enhance systems and drive efficiency in various applications.
 
 ---
 
