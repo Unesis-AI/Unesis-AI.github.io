@@ -2,7 +2,7 @@
 
 # Unesis AI
 
-**Empowering Healthcare for Refugee and Displaced Communities**
+**With over 30 million forcibly displaced people in Africa and 2,000 languages spoken across the continent, language barriers significantly hinder healthcare access and diagnostic accuracy.**
 
 ---
 
@@ -29,10 +29,10 @@ Unesis AI is actively seeking partnerships with stakeholders in the healthcare e
 
 ---
 
-## <img src="/meta logo.webp" alt="Meta Logo" width="10%" height="10%" /> <img src="/AluLogoForAdmissions.png" alt="ALU Logo" width="10%" height="10%" /> 
 ### Backed by Meta and African Leadership University  
 Unesis AI is backed by industry leaders **Meta** and **African Leadership University**, giving us access to world-class resources and support to drive our vision forward. Our team of five individuals is dedicated to making healthcare more accessible through innovative AI solutions.
 
+## <img src="/meta logo.webp" alt="Meta Logo" width="10%" height="10%" /> <img src="/AluLogoForAdmissions.png" alt="ALU Logo" width="10%" height="10%" /> 
 ---
 
 ## Meet Our Team
@@ -102,6 +102,5 @@ We welcome inquiries from potential partners, investors, and collaborators who s
 
 ---
 
-## ![Join Us Icon](path/to/join_us_image.png)  
 ### Join Us on This Journey  
 If you're interested in contributing to our mission, we would love to hear from you. Together, we can change the face of healthcare in Africa, one innovation at a time.
