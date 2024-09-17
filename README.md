@@ -96,9 +96,9 @@ In this short demo, you'll see our audio translation system in action and learn 
 ![Contact Icon](path/to/contact_icon.png)  
 We welcome inquiries from potential partners, investors, and collaborators who share our vision of transforming healthcare for underserved populations.
 
-- **Email:** 
+- **Email:** gatwazarobert177@gmail.com
 - **Phone:** +250-788-494-219
-- **Website:** Unesis AI.com
+- **Website:** UnesisAI.com
 
 ---
 
