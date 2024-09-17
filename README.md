@@ -98,7 +98,7 @@ We welcome inquiries from potential partners, investors, and collaborators who s
 
 - **Email:** gatwazarobert177@gmail.com
 - **Phone:** +250 788 494 219/+250 798 687 654
-- **Website:** UnesisAI.com
+- **Website:** unesisai.com
 
 ---
 
