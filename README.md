@@ -49,7 +49,7 @@ Christine Akoto-Nimoh is a medical doctor with over a decade of experience in pu
 
 ---
 
-### ![Chol image](/Chol.JPG)  
+### <img src="/Chol.JPG" alt="Chol" width="25%" height="25%" />  
 **Chol Daniel Deng Dau - Co-founder**  
 I am dedicated software engineer with a keen interest in machine learning and artificial intelligence. With a passion for leveraging innovative technologies to solve complex problems, I am committed to continuous learning and development in AI, constantly exploring new ways to enhance systems and drive efficiency in various applications.
 
