@@ -2,7 +2,7 @@
 
 # Unesis AI
 
-**With over 30 million forcibly displaced people in Africa and 2,000 languages spoken across the continent, language barriers significantly hinder healthcare access and diagnostic accuracy.**
+**With over <span style="color:blue;">30 million</span> forcibly displaced people in Africa and 2,000 languages spoken across the continent, language barriers significantly hinder healthcare access and diagnostic accuracy.**
 
 ---
 
