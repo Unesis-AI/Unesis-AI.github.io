@@ -37,9 +37,9 @@ Unesis AI is backed by industry leaders **Meta** and **African Leadership Univer
 
 ## Meet Our Team
 
-### ![Jean Robert Image](path/to/member1_image.png)  
+### <img src="/Gatwaza's professional picture.png" alt="Chol" width="25%" height="25%" />  
 **Jean Robert – Co-Founder**  
-Jean is a visionary leader with a background in Software Engineering and Machine Learning. He is passionate about applying AI solutions to real-world problems, particularly in healthcare.
+Co-founded MediXR two years ago, which went on to impact medical training efficiency with VR/AR. and since then my passion for developing human-machine tools kept growing.
 
 ---
 
@@ -55,9 +55,9 @@ I am dedicated software engineer with a keen interest in machine learning and ar
 
 ---
 
-### ![Nadia Umwali Image](path/to/member4_image.png)  
+### <img src="/Joyce.jpg" alt="Chol" width="25%" height="25%" /> 
 **Joyce Moses Brown – Partnerships Manager**  
-Nadia manages strategic partnerships and outreach efforts, helping Unesis AI build strong collaborations within the healthcare ecosystem.
+I am a frontend software engineer with a strong focus on communication and user experience design. I specialize in simplifying complex concepts into intuitive, user-centric solutions, creating responsive interfaces that enhance both engagement and accessibility. With a creative and forward-thinking approach to problem-solving, I continuously explore innovative ways to leverage technology for meaningful impact.
 
 ---
 
