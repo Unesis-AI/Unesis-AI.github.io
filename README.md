@@ -104,3 +104,5 @@ We welcome inquiries from potential partners, investors, and collaborators who s
 
 ### Join Us on This Journey  
 If you're interested in contributing to our mission, we would love to hear from you. Together, we can change the face of healthcare in Africa, one innovation at a time.
+
+@All rights reserved BY Unesis AI
