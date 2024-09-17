@@ -43,25 +43,25 @@ Co-founded MediXR two years ago, which went on to impact medical training effici
 
 ---
 
-### ![Dr. Amina Kabore Image](path/to/member2_image.png)  
+### <img src="/Christine.jpg" alt="Chol" width="25%" height="25%" />  
 **Christine Akoto-Nimoh - Co-founder**  
-Christine Akoto-Nimoh is a medical doctor with over a decade of experience in public health. She brings critical insights into healthcare delivery for underserved populations.
+I'm an aspiring Data Scientist with a passion for Machine Learning and AI. I enjoy working with datasets and developing AI models to solve real-world problems.
 
 ---
 
 ### <img src="/Chol.JPG" alt="Chol" width="25%" height="25%" />  
 **Chol Daniel Deng Dau - Co-founder**  
-I am dedicated software engineer with a keen interest in machine learning and artificial intelligence. With a passion for leveraging innovative technologies to solve complex problems, I am committed to continuous learning and development in AI, constantly exploring new ways to enhance systems and drive efficiency in various applications.
+I am a dedicated software engineer interested in machine learning and artificial intelligence. With a passion for leveraging innovative technologies to solve complex problems, I am committed to continuous learning and development in AI, constantly exploring new ways to enhance systems and drive efficiency in various applications.
 
 ---
 
 ### <img src="/Joyce.jpg" alt="Chol" width="25%" height="25%" /> 
 **Joyce Moses Brown – Partnerships Manager**  
-I am a frontend software engineer with a strong focus on communication and user experience design. I specialize in simplifying complex concepts into intuitive, user-centric solutions, creating responsive interfaces that enhance both engagement and accessibility. With a creative and forward-thinking approach to problem-solving, I continuously explore innovative ways to leverage technology for meaningful impact.
+I am a front-end software engineer with a strong focus on communication and user experience design. I specialize in simplifying complex concepts into intuitive, user-centric solutions, and creating responsive interfaces that enhance both engagement and accessibility. With a creative and forward-thinking approach to problem-solving, I continuously explore innovative ways to leverage technology for meaningful impact.
 
 ---
 
-### ![Farid Murekezi Image](path/to/member5_image.png)  
+### <img src="/Chol.JPG" alt="Chol" width="25%" height="25%" />  
 **Arnold Muwanguzi - Business Ops**  
 Farid is responsible for designing intuitive and user-friendly interfaces for our AI-powered solutions, ensuring that healthcare providers can seamlessly integrate them into their workflow.
 
@@ -70,7 +70,7 @@ Farid is responsible for designing intuitive and user-friendly interfaces for ou
 ## Demo Video  
 
 **Watch how Unesis AI is changing healthcare!**  
-[Watch Demo Video](link_to_demo_video)  
+[Watch Demo Video](/demo_video.mp4)  
 In this short demo, you'll see our audio translation system in action and learn how our AI-powered imaging technology speeds up diagnoses, helping doctors make better decisions faster.
 
 ---
