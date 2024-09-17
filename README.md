@@ -63,7 +63,7 @@ I am a front-end software engineer with a strong focus on communication and user
 
 ### <img src="/Chol.JPG" alt="Chol" width="25%" height="25%" />  
 **Arnold Muwanguzi - Business Ops**  
-Farid is responsible for designing intuitive and user-friendly interfaces for our AI-powered solutions, ensuring that healthcare providers can seamlessly integrate them into their workflow.
+Arnold is the most sympathetic individual, and his business expertise streamlines the company's vision for democratized healthcare solutions.
 
 ---
 
