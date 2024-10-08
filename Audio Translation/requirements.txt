@@ -1,0 +1,10 @@
+assemblyai==0.7.0
+gradio
+translate==3.6.1
+uuid==1.30
+elevenlabs==0.2.8
+numpy==1.23.1
+pathlib==1.0.1
+httpx>=0.23.0
+httpcore>=0.17.0
+gunicorn
